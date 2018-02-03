@@ -14,7 +14,7 @@ class DefaultController extends Controller
     public function IndexAction(){
 
         return $this->render(
-            'home/base.html.twig', array(
+            'home/index.html.twig', array(
                 'number'=>'1'
             )
         );

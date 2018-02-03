@@ -2,9 +2,316 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b859a4f-da5a-4374-a3bb-ecf6c01bdd4e" name="Default" comment="Working routing and twig">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/templates/home/index.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/160x120.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/260x180.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/360x268.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/bootstrap-mdo-sfmoma-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/bootstrap-mdo-sfmoma-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/bootstrap-mdo-sfmoma-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/bs-docs-masthead-pattern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/camera/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/camera/camera-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/camera/camera_skins.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/camera/patterns/overlay1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/camera/patterns/overlay10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/camera/patterns/overlay2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/camera/patterns/overlay3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/camera/patterns/overlay4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/camera/patterns/overlay5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/camera/patterns/overlay6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/camera/patterns/overlay7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/camera/patterns/overlay8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/camera/patterns/overlay9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/camera/slides/big_bunny_fake.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/camera/slides/bridge.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/camera/slides/leaf.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/camera/slides/road.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/camera/slides/sea.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/camera/slides/shelter.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/camera/slides/thumbs/big_bunny_fake.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/camera/slides/thumbs/bridge.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/camera/slides/thumbs/header_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/camera/slides/thumbs/leaf.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/camera/slides/thumbs/road.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/camera/slides/thumbs/sea.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/camera/slides/thumbs/shelter.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/camera/slides/thumbs/tree.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/camera/slides/tree.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/20x20/AIM.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/20x20/Apple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/20x20/Blogger.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/20x20/Delicious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/20x20/Digg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/20x20/Dopplr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/20x20/Evernote.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/20x20/Facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/20x20/Flickr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/20x20/Google.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/20x20/Linkedin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/20x20/Mail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/20x20/MobileMe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/20x20/MySpace.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/20x20/Picasa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/20x20/RSS.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/20x20/Skype.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/20x20/Stumble_Upon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/20x20/Technorati.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/20x20/Twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/20x20/Vimeo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/20x20/Windows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/20x20/Yahoo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/20x20/Youtube.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/35x35/blip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/35x35/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/35x35/flickr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/35x35/lastfm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/35x35/linkedin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/35x35/myspace.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/35x35/picasa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/35x35/rss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/35x35/tumblr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/35x35/twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/35x35/vimeo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/35x35/wordpress.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/35x35/yt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/40x40/delicious_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/40x40/digg_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/40x40/facebook_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/40x40/flickr_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/40x40/lastfm_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/40x40/linkedin_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/40x40/myspace_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/40x40/rss_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/40x40/stumbleupon_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/40x40/technorati_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/40x40/twitter_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/40x40/vimeo_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/40x40/youtube_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/55x55/delicious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/55x55/digg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/55x55/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/55x55/flickr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/55x55/lastfm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/55x55/linkedin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/55x55/myspace.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/55x55/rss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/55x55/stumbleupon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/55x55/technorati.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/55x55/twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/55x55/vimeo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/55x55/youtube.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/55x55_2/delicious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/55x55_2/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/55x55_2/flickr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/55x55_2/foursquare.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/55x55_2/google_buzz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/55x55_2/rss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/55x55_2/stumbleupon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/55x55_2/technorati.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/55x55_2/tumblr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/55x55_2/twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/big/delicious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/big/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/big/flickr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/big/furl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/big/reddit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/big/rss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/big/stumbleupon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/big/technorati.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/big/twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/big/yahoo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/big/youtube.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/delicious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/email.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/feed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/flickr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/linkedin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/medium/aim.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/medium/delicious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/medium/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/medium/flickr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/medium/google.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/medium/linkedin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/medium/picasa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/medium/reddit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/medium/rss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/medium/skype.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/medium/stumbleupon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/medium/technorati.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/medium/twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/medium/vimeo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/stumble.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/tripadvisor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/vimeo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/icons/youtube.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/less-logo-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/responsive-illustrations.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/stock_images/120x120_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/stock_images/120x120_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/stock_images/120x120_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/stock_images/120x120_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/stock_images/120x120_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/stock_images/120x120_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/stock_images/120x120_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/stock_images/120x120_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/stock_images/700x430_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/stock_images/700x430_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/stock_images/700x430_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/stock_images/700x430_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/stock_images/700x430_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/stock_images/700x430_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/stock_images/700x430_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/stock_images/700x430_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/tm/digits.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/tm/plus-minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/tm/portfolio-1col.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/tm/portfolio-2col+capt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/tm/portfolio-2col.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/tm/portfolio-3col+capt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/tm/portfolio-3col.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/tm/portfolio-4col+capt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/tm/portfolio-4col.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/tm/pro_button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/tm/right_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/tm/tm_home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/tm/twitter_bird_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/img/tm/ul_list1_marker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/404.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/bg-content.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/bg-content2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/blog-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/blog-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/blog-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/blog-featured-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/blog-featured-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/blog-featured-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/blog-featured-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/border-horiz.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/header-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/image-blank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/indicator.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/indicator1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/magnifier.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/map.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/marker-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/marker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/prev.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/service-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/service-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/service-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/service-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/service-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/service-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/slide-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/slide-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/slide-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/slide-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/slide-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/soc-icon-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/soc-icon-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/soc-icon-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/soc-icon-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/soc-icon-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/spinner1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/tm/plus-minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/tm/pro_button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/tm/tm_home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/work/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/work/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/work/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/work/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/work/13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/work/14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/work/15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/work/16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/work/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/work/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/work/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/work/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/work/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/work/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/work/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/img/work/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/screenshots/free-responsive-bootstrap-template-all-media.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/screenshots/free-responsive-bootstrap-template-desktop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/screenshots/free-responsive-bootstrap-template-iphone-ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/base-css.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/components.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/css/bootstrap-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/css/camera.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/css/docs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/css/ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/css/prettify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/css/tm_docs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/css3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/intro.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/javascript.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/js/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/js/bootstrap-affix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/js/bootstrap-alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/js/bootstrap-button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/js/bootstrap-carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/js/bootstrap-collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/js/bootstrap-dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/js/bootstrap-modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/js/bootstrap-popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/js/bootstrap-scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/js/bootstrap-tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/js/bootstrap-tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/js/bootstrap-transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/js/bootstrap-typeahead.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/js/camera.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/js/jquery.cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/js/jquery.countdown.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/js/jquery.easing.1.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/js/jquery.isotope.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/js/jquery.mobile.customized.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/js/jquery.tweet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/js/prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/portfolio.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/scaffolding.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/slider.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/social_media.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/assets/under_construction.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/bat/MailHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/css/docs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/css/ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/css/kwicks-slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/css/responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/css/touchTouch.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/js/forms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/js/jquery.cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/js/jquery.easing.1.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/js/jquery.flexslider-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/js/jquery.kwicks-1.5.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/js/jquery.preloader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/js/superfish.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/js/touchTouch.jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/search/results.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/search/search.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../finanse/public/search/search.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../finanse/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../finanse/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../finanse/src/Controller/DefaultController.php" afterPath="$PROJECT_DIR$/../finanse/src/Controller/DefaultController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../finanse/templates/home/index.html.twig" afterPath="$PROJECT_DIR$/../finanse/templates/home/index.html.twig" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,7 +322,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="218">
       <file leaf-file-name="base.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../finanse/templates/base.html.twig">
           <provider selected="true" editor-type-id="text-editor">
@@ -29,8 +336,8 @@
       <file leaf-file-name="DefaultController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../finanse/src/Controller/DefaultController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+            <state relative-caret-position="288">
+              <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
               <folding>
                 <element signature="e#34#81#0#PHP" expanded="true" />
               </folding>
@@ -41,14 +348,36 @@
       <file leaf-file-name="index.html.twig" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../finanse/templates/home/index.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="-261">
+              <caret line="241" column="21" lean-forward="false" selection-start-line="241" selection-start-column="21" selection-end-line="241" selection-end-column="21" />
+              <folding>
+                <element signature="n#style#0;n#p#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#16118#16124#0#HTML" expanded="true" />
+                <marker date="1517698163292" expanded="true" signature="17722:17739" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../finanse/extract_templates/codester/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1840">
+              <caret line="288" column="0" lean-forward="false" selection-start-line="288" selection-start-column="0" selection-end-line="288" selection-end-column="62" />
+              <folding>
+                <marker date="1361364558000" expanded="false" signature="2016:2033" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>1.jpg</find>
+      <find>bootstrap.css</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../finanse" />
@@ -136,6 +465,52 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="finanse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="finanse" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="finanse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="finanse" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extract_templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="finanse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="finanse" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extract_templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codester" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -147,6 +522,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../finanse/public" />
+      <recent name="$PROJECT_DIR$/../finanse/templates/Resources" />
       <recent name="$PROJECT_DIR$/../finanse/templates/home" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -251,7 +628,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517694039737</updated>
-      <workItem from="1517694040845" duration="2083000" />
+      <workItem from="1517694040845" duration="4051000" />
     </task>
     <task id="LOCAL-00001" summary="Working routing and twig">
       <created>1517695607222</created>
@@ -264,30 +641,29 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2083000" />
+    <option name="totallyTimeSpent" value="4051000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1054" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973261" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968238" sideWeight="0.50213903" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968238" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32968238" sideWeight="0.49786097" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12566845" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968238" sideWeight="0.50213903" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968238" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32968238" sideWeight="0.49786097" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,19 +702,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../finanse/src/Controller/DefaultController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        <state relative-caret-position="288">
+          <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
           <folding>
             <element signature="e#34#81#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../finanse/extract_templates/codester/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1840">
+          <caret line="288" column="0" lean-forward="false" selection-start-line="288" selection-start-column="0" selection-end-line="288" selection-end-column="62" />
+          <folding>
+            <marker date="1361364558000" expanded="false" signature="2016:2033" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../finanse/templates/Resources/assets/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../finanse/public/assets/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../finanse/templates/home/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="-261">
+          <caret line="241" column="21" lean-forward="false" selection-start-line="241" selection-start-column="21" selection-end-line="241" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#16118#16124#0#HTML" expanded="true" />
+            <marker date="1517698163292" expanded="true" signature="17722:17739" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
